@@ -10,7 +10,7 @@ For more details, please refer to the link: https://www.nexdata.ai/datasets/spee
 Including hospital treatment details, hospital test results, hospital pet prescription, allergy test list, vaccination history for multiple animals
 ### Data size
 About 250,000
-###v Format
+### Format
 PDF
 ### Language
 English
